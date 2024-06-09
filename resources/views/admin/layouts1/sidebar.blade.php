@@ -2,10 +2,8 @@
 
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{route("Accueil.index")}}">
-        <div class="sidebar-brand-icon rotate-n-15">
-            <i class="fas fa-laugh-wink"></i>
-        </div>
-        <div class="sidebar-brand-text mx-3">Admin <sup>Panel</sup></div>
+
+        <div class="sidebar-brand-text mx-3">Administrateur <sup></sup></div>
     </a>
 
     <!-- Divider -->
